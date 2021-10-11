@@ -1,7 +1,9 @@
 # Dynamic Debate Mobile
 The mobile (React Native) version of my Dynamic Debate web app (Angular).
 
-
+<p align="center"> 
+  <img height="500" width="300" src="https://github.com/peta-byte/Dynamic-Debate-Mobile/blob/master/dynamic-debate.gif?raw=true" /> 
+</p>
 
 To use these files:
 
