@@ -12,3 +12,7 @@ To use these files:
 3. Install the app's dependencies: Run `npm i`
 4. Open an emulator/simulator or have your device ready
 5. Run the app: `npx react-native run-android` or `npx react-native run-ios`
+
+## e2e Tests
+
+More about the Detox set-up for running e2e tests [here](https://reactnativetesting.io/e2e/intro.html).
